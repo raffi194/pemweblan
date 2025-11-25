@@ -1,0 +1,6 @@
+[submodule "pemweb-an-kelompok1"]
+	path = pemweb-an-kelompok1
+	url = https://github.com/shamhasan/pemweb-an-kelompok1.git
+[submodule "vue-kelompok-1"]
+	path = vue-kelompok-1
+	url = https://github.com/hamatair/vue-kelompok-1.git
